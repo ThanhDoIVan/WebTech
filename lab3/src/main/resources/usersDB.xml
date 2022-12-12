@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User>
+        <user_id>1</user_id>
+        <email>qwe@mail.com</email>
+        <password>2077</password>
+        <name>Johny</name>
+        <surname>Silverhand</surname>
+        <age>69</age>
+        <role>ROLE_ADMIN</role>
+    </User>
+    <User>
+        <user_id>2</user_id>
+        <email>v@mail.com</email>
+        <password>2077</password>
+        <name>V</name>
+        <surname>V</surname>
+        <age>25</age>
+        <role>ROLE_USER</role>
+    </User>
+</Users>

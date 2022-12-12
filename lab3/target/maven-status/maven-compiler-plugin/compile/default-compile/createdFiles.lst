@@ -1,0 +1,13 @@
+server/model/User$UserBuilder.class
+server/model/User.class
+server/Server.class
+server/SessionHandler.class
+server/dao/UserDAOImpl.class
+server/util/UserFactory$1.class
+server/util/UserFactory.class
+client/Client.class
+server/service/UserService.class
+server/NewServer.class
+server/util/FieldType.class
+server/model/Role.class
+server/dao/UserDAO.class
